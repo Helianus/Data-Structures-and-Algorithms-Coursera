@@ -44,5 +44,5 @@ def stress_test():
 
 
 if __name__ == '__main__':
-    #n = int(input())
+    n = int(input())
     print(fib_sum_fast(n))
